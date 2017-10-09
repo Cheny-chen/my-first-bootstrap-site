@@ -1,0 +1,41 @@
+.my-nav {
+  background: #FF6600
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+.font-white {
+    line-height: inherit;
+    font-size: 2em;
+    color:#FFF !important;
+}
+
+.nav .menu {
+    line-height: inherit;
+    font-size: 1.2em;
+    color:#FFF !important;
+}
+.nav .menu:hover {
+    line-height: inherit;
+    font-size: 1.2em;
+    color:#333 !important;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.container .row .col-lg-3 img {
+    margin-top: 20px;
+}
+
+#footer {
+    /*padding-top: 80px;
+      position: absolute;*/
+}
+
+#footer p {
+    text-align: center;
+}
